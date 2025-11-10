@@ -1,2 +1,3 @@
-# Python-Day2-Demand-Vs-Stock-Calculator
-Basic Python Script for comparing Demand Vs Stock Levels
+# Python-Learning-Series
+Day1 - Basic Python Code
+Day2 - Demand Vs Stock Levels Analysis
